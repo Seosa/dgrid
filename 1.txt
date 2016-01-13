@@ -1,4 +1,8 @@
 
 jhughg
 
+<<<<<<< HEAD
 asasasa
+=======
+new com
+>>>>>>> refs/remotes/origin/master
