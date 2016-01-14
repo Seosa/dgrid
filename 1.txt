@@ -1,4 +1,12 @@
 
 jhughg
 
+<<<<<<< HEAD
 new com222
+=======
+<<<<<<< HEAD
+asasasa
+=======
+new com
+>>>>>>> refs/remotes/origin/master
+>>>>>>> origin/master
